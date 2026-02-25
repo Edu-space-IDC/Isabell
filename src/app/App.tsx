@@ -233,7 +233,7 @@ export default function App() {
           >
 
             <p className="text-lg text-gray-700 dark:text-gray-300 leading-relaxed mb-6">
-              Soy Isabel Mina Quiñones, tengo 15 años pero con mentalidad de 35 con ideas que vienen a cambiar tu <strong>COLEGIO</strong>.</p>
+              Soy Isabel Mina Quiñones, tengo 16 años pero con mentalidad de 35 con ideas que vienen a cambiar tu <strong>COLEGIO</strong>.</p>
             <p className="text-lg text-gray-700 dark:text-gray-300 leading-relaxed mb-6">
               Soy estudiante del <strong>Colegio Isaías Duarte Cancino</strong> de grado <strong>11°</strong>, y me presento como candidata a <strong>Personera</strong> porque creo firmemente en que nuestra voz estudiantil puede generar cambios positivos y duraderos.</p>
             <p className="text-lg text-gray-700 dark:text-gray-300 leading-relaxed mb-6">
