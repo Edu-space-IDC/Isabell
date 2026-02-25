@@ -107,7 +107,7 @@ export default function App() {
               Tu Voz,
               <span className="text-blue-600 dark:text-blue-400"> Mi Compromiso</span>
               <span className="ml-4 inline-flex -translate-y-2 rounded-full border-2 border-amber-300 bg-gradient-to-r from-amber-400 to-yellow-300 px-4 py-1 text-2xl md:text-3xl font-extrabold text-blue-950 shadow-lg">
-                Vota #02
+                Vota #01
               </span>
               
             </h1>
@@ -263,7 +263,7 @@ export default function App() {
           >
 
              <span className="ml-4 inline-flex -translate-y-2 rounded-full border-2 border-amber-300 bg-gradient-to-r from-amber-400 to-yellow-300 px-4 py-1 text-2xl md:text-3xl font-extrabold text-blue-950 shadow-lg">
-                Vota #02
+                Vota #01
               </span>
             <h2 className="text-4xl md:text-5xl font-bold text-gray-900 dark:text-white mb-4">
               Mis Propuestas
